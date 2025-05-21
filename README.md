@@ -1,4 +1,4 @@
-# 💪 Gold's Gym - Exercise Finder App
+#  Gold's Gym - Exercise Finder App
 
 A sleek and responsive **fitness web application** built using **React.js**, styled with **Material UI**, and powered by **ExerciseDB API via RapidAPI**. This app helps users discover exercises based on **body parts**, **target muscles**, or **equipment**, along with visual guidance and related workouts.
 
@@ -40,10 +40,11 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
   - Equipment used
   - Animated exercise demo
   - Muscle and body part icons
-<img src="/screenshots/detail.png" width="50%" />
 
 ### 6. **Exercise Videos**
 - Scroll further to view **YouTube videos** related to the selected exercise for better visual guidance.
+
+<img src="/screenshots/detail.png" width="50%" />
 
 ### 7. **Similar Exercises**
 - At the bottom, users will find:
@@ -53,7 +54,7 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
 <img src="/screenshots/similar.png" width="50%" />
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool/Library    | Description                              |
 |-----------------|------------------------------------------|
@@ -61,7 +62,3 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
 | **Material UI** | For responsive components & styling      |
 | **RapidAPI**    | For fetching exercise data from ExerciseDB |
 | **React Router**| For navigation and dynamic routing       |
-
----
-
-## 📂 Project Structure
