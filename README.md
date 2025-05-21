@@ -14,7 +14,8 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
 
 ### 1. **Banner Section**
 - The homepage opens with a bold **banner image and heading**, encouraging users to explore exercises.
-<img src="/screenshots/banner.png" controls width="100%"></video>
+<img src="/screenshots/banner.png" width="300px" />
+
 
 ### 2. **Body Part Categories**
 - Scrolling down reveals an **interactive horizontal scrollbar** of exercise categories (like chest, back, cardio, etc.).
