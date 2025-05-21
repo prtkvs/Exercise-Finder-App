@@ -7,6 +7,7 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
 ## Live Demo
 
 🔗 [Visit the Live Site](https://prtkgym.netlify.app/)
+<img src="https://www.kapwing.com/videos/682dac1f4c065a8352687b54" width="50%" />
 
 ---
 
