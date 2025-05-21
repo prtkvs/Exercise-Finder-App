@@ -27,9 +27,11 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
   - Body part
   - Equipment
   - Target muscle
+<img src="/screenshots/search and categories.png" width="50%" />
 
 ### 4. **Search Results Section**
 - After searching or selecting a category, the page **smoothly scrolls** down to show matching exercise results as **GIF cards**.
+<img src="/screenshots/showing results.png" width="50%" />
 
 ### 5. **Exercise Details Page**
 - Clicking on any exercise opens a **detailed page** showing:
@@ -38,6 +40,7 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
   - Equipment used
   - Animated exercise demo
   - Muscle and body part icons
+<img src="/screenshots/detail.png" width="50%" />
 
 ### 6. **Exercise Videos**
 - Scroll further to view **YouTube videos** related to the selected exercise for better visual guidance.
@@ -47,7 +50,7 @@ A sleek and responsive **fitness web application** built using **React.js**, sty
   - Exercises that target **similar muscles**
   - Exercises that use the **same equipment**
   - Perfect for **exploring more workouts** and creating a full routine!
-
+<img src="/screenshots/similar.png" width="50%" />
 ---
 
 ## 🛠️ Tech Stack
